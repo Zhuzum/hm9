@@ -1,0 +1,27 @@
+.forma {
+	width: 500px;
+	margin: auto;
+	border: 2px solid;
+	border-radius: 10px;
+	background: rgb(221, 255, 0);
+	margin-top: 100px;
+	display: flex;
+	align-items: center;
+}
+.forma input {
+	width: 330px;
+	height: 50px;
+	outline: none;
+	border: 2px solid;
+	border-radius: 10px;
+	margin: 20px;
+}
+.button {
+	width: 100px;
+	height: 60px;
+	border: 2px solid;
+	border-radius: 10px;
+	background: white;
+	outline: none;
+
+}
